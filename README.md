@@ -1,2 +1,2 @@
 # Pulse
-Pulse Game Engine
+Pulse game engine
