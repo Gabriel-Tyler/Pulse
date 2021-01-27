@@ -13,5 +13,5 @@ public:
 
 Pulse::Application* Pulse::CreateApplication()
 {
-	return new Sandbox {};
+	return new Sandbox();
 }

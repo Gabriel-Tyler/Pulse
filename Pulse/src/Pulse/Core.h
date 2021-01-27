@@ -7,7 +7,7 @@
 		#define PULSE_API __declspec(dllimport)
 	#endif // PLS_BUILD_DLL
 #else
-	#error Pulse only supports Windows
+	#error Pulse only supports Windows!
 #endif // PLS_PLATFORM_WINDOWS
 
 

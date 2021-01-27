@@ -12,6 +12,7 @@ namespace Pulse
 
 	void Application::Run()
 	{
+		// hello github!
 		while (true);
 	}
 }
