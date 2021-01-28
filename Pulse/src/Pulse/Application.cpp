@@ -1,5 +1,7 @@
 #include "Application.h"
 
+#include <iostream>
+
 namespace Pulse
 {
 	Application::Application()
@@ -12,7 +14,6 @@ namespace Pulse
 
 	void Application::Run()
 	{
-		// hello github!
 		while (true);
 	}
 }
